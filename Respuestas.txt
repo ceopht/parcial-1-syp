@@ -30,3 +30,6 @@ R:Es una entidad coordinada orientada a conseguir metas en base a un sistema vin
 
 8- Bajo el enfoque de sistemas, explique ¿cuáles serían las dificultades del administrador moderno?
 R:  Tratar de hacer ver las ventajas de un sistema actualizado y las tecnologias en las texnologias en las que se es capas
+
+9- ¿Por qué es importante conocer el organigrama de una organización al momento de realizar un análisis de los cambios o mejoras que se pueden hacer en esta?
+R: Se brinda una vision general mejorada en base a los problemas de la empresa  y la estructura de la misma
