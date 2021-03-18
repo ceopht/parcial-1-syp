@@ -24,4 +24,6 @@ R: Las metas esperadas
 6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
 informáticos?
 R: Porque la informacion se presenta de una manera mas organizada para la comparacion de los datos obtenidos de mejor manera
- 
+
+7- ¿Bajo el punto de vista de unidad productiva, qué es una organización?
+R:Es una entidad coordinada orientada a conseguir metas en base a un sistema vinculado con su entorno
