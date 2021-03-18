@@ -11,3 +11,6 @@ Sistemas Cerrados:
 	a) Una lampara de lava
 	b) Una colmena
 	c) Una lata de soda
+
+3- ¿Qué limitaciones significativas se tendrían si no aplicamos un enfoque de sistemas?
+R: No se podria llegar a plantear  todas las areas donde puede suceder un error o las conexiones que tiees ellas con otras areas o sistemas y desenfocar las conexiones 
