@@ -17,4 +17,6 @@ R: No se podria llegar a plantear  todas las areas donde puede suceder un error 
 
 4- Medio que utiliza una empresa para lograr sus objetivos. Nos estamos refiriendo a:
 R: La organizacion
- 
+
+5- ¿Qué comparativo nos permite saber rápidamente que ha llegado el momento de tomar decisiones correctivas ? 
+R: Las metas esperadas
