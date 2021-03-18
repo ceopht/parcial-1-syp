@@ -1,2 +1,13 @@
 1- Explique con sus palabras, qué entiende por sistema.
 R: Un sistema es un conjunto de elementos que funcionan armonicamente para desenpeñar una tarea
+
+2- Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados
+R:
+Sistemas abiertos:
+	a) Cocina a gas
+	b) Sistema digestivo 
+	c) La combustion de un fosforo
+Sistemas Cerrados:
+	a) Una lampara de lava
+	b) Una colmena
+	c) Una lata de soda
