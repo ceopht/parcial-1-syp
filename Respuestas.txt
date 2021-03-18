@@ -20,3 +20,8 @@ R: La organizacion
 
 5- ¿Qué comparativo nos permite saber rápidamente que ha llegado el momento de tomar decisiones correctivas ? 
 R: Las metas esperadas
+
+6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
+informáticos?
+R: Porque la informacion se presenta de una manera mas organizada para la comparacion de los datos obtenidos de mejor manera
+ 
