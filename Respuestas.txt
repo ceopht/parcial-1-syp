@@ -33,3 +33,6 @@ R:  Tratar de hacer ver las ventajas de un sistema actualizado y las tecnologias
 
 9- ¿Por qué es importante conocer el organigrama de una organización al momento de realizar un análisis de los cambios o mejoras que se pueden hacer en esta?
 R: Se brinda una vision general mejorada en base a los problemas de la empresa  y la estructura de la misma
+
+10- Es el paso inicial de un estudio organizacional
+R:Vision de estudios
